@@ -1,4 +1,4 @@
-# assignment_demo_2023
+# Completed Tiktok Tech Immersion Backend Assignment 
 
 ![Tests](https://github.com/LohYangXian/-tiktok-tech-immersion-2023/actions/workflows/test.yml/badge.svg)
 
